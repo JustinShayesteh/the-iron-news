@@ -6,3 +6,6 @@ background-color: grey;
 #logo {
   color: black;
 }
+#login{
+  box-sizing: border-box;
+}
