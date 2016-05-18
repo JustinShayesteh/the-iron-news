@@ -4,8 +4,23 @@ background-color: grey;
 }
 
 #logo {
+
   color: black;
 }
-#login{
-  box-sizing: border-box;
+
+#title {
+  float: right;
+  width: 100%;
+
+}
+form {
+                width:200px;
+                margin:20px auto;
+
+}
+
+.footer{
+  text-align: center;
+  font-size: 14px;
+  height: 20px;
 }
